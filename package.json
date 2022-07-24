@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Santosh12081998.github.io/education-mantra",
+  "homepage": "http://Santosh12081998.github.io/test-mantra",
   "name": "education-mantra",
   "version": "0.1.0",
   "private": true,
@@ -37,8 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
